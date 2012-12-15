@@ -9,33 +9,9 @@ OR
 OR
 - 4GB USB drive x3
 
-2. (OPTIONAL but highly recommended!! ) In order to host Sound.mpq on a RAMDISK you must first setup Radeon RAMDISK ( 4GB free version) on your PC. Just make sure you have 6GB or more RAM on your PC. You need to setup a 1,300MB RAMdisk. Remember to Load Disk Image at Startup so that you don't need to copy Sound.mpq to the RAMDisk everytime your PC restarts. 
-
-How to use the script?
-0. BACKUP YOUR DIABLO 3 FOLDER FIRST!!!!!
-1. Extract the scripts to an empty folder.
-2. Open notepad
-3. Drag config.bat (or config) to notepad interface
-4. Configure according to instructions & save it.
-5. Double click start-d3mpqlinker.vbs (or start-d3mpqlinker) to run the script.
-6. Type Yes to confirm!
-7. Wait the script to complete!
-
-
-D3 files! Running D3 from a USB drive give you much smoother gameplay. The script also help you to host Sound.mpq with a RAMdisk (you must setup the RAMdisk first) 
-
-Requirement:
-1. In order to host the MPQ files on USB drive, you must have at least 
-- 16GB USB drive x1
-OR
-- 8GB USB drive x1 
-- 4GB USB drive x1
-OR
-- 4GB USB drive x3
-
 2. (OPTIONAL but highly recommended!! ) In order to host Sound.mpq on a RAMDISK you must first setup Radeon RAMDISK ( 4GB free version) on your PC. Just make sure you have 6GB or more RAM on your PC. You need to setup a 1,300MB RAMdisk. Remember to save the disk image after running the script & Load Disk Image at Startup so that Sound.mpq can persists over PC reboots. 
 
-How to use the script:
+How to use the script?
 0. BACKUP YOUR DIABLO 3 FOLDER FIRST!!!!!
 1. Extract the scripts to an empty folder.
 2. Open notepad
